@@ -1,1 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NaberX Child Safety Standards</title>
+<meta name="description" content="NaberX standards against child sexual abuse and exploitation (CSAE), and how to report a concern.">
+<style>
+  :root {
+    --bg: #F7EEF2;
+    --card: #FFFFFF;
+    --text: #26101C;
+    --muted: #76606B;
+    --accent: #B3123F;
+    --band: #2A0A1A;
+    --border: #EAD6DF;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #07030A;
+      --card: #170B12;
+      --text: #FBEFF3;
+      --muted: #B79DAA;
+      --accent: #FF7DA3;
+      --band: #0E050A;
+      --border: #2E1A25;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  header { background: var(--band); padding: 32px 16px 28px; }
+  .wrap { max-width: 760px; margin: 0 auto; }
+  header h1 { margin: 0; font-size: 1.6rem; line-height: 1.2; color: #FFFFFF; }
+  header p { margin: 4px 0 0; color: #F6DCE6; }
+  @media (prefers-color-scheme: dark) { header p { color: #B79DAA; } }
+  main { padding: 24px 16px 48px; }
+  .summary {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--accent);
+    border-radius: 12px;
+    padding: 16px 20px;
+    margin-bottom: 28px;
+  }
+  h2 { font-size: 1.15rem; margin: 28px 0 6px; }
+  ul { padding-left: 20px; }
+  li { margin-bottom: 6px; }
+  a { color: var(--accent); overflow-wrap: anywhere; }
+  .muted { color: var(--muted); font-size: 0.92rem; }
+  footer { border-top: 1px solid var(--border); margin-top: 36px; padding-top: 16px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>NaberX: Child Safety Standards</h1>
+    <p>Developer: Cute Games · Effective date: November 6, 2026</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="summary">
+    <strong>Zero tolerance.</strong>
+    NaberX, published by Cute Games, prohibits child sexual abuse and exploitation (CSAE) and child sexual abuse material (CSAM) of any kind. NaberX is only for adults aged 18 and over. Anyone who uses NaberX to harm a child is breaking our terms and the law, and we will cooperate fully with the authorities.
+  </section>
+
+  <h2>1. Adults only</h2>
+  <ul>
+    <li>NaberX is a dating app for people aged 18 or older. Every user must confirm they are 18 or older before using the app; anyone under 18 must not use it.</li>
+    <li>The app is rated for adults in Google Play and is not designed for or marketed to children.</li>
+  </ul>
+
+  <h2>2. What is prohibited</h2>
+  <p>Users must never use NaberX to:</p>
+  <ul>
+    <li>create, share, request or store any sexual content involving a minor (CSAM), including drawn, edited or AI-generated content;</li>
+    <li>contact, groom, entice or try to meet anyone under 18, or sexualize minors in any way;</li>
+    <li>sextort, threaten, traffic or exploit a child, or help anyone else do so;</li>
+    <li>promote, normalize or give instructions for any of the above.</li>
+  </ul>
+  <p>Breaking these rules breaches the NaberX <a href="index.html">Privacy Policy &amp; Terms of Use</a>.</p>
+
+  <h2>3. How NaberX works and what that means for safety</h2>
+  <p>NaberX works only over Bluetooth between phones that are physically close. Messages go directly from phone to phone, end-to-end encrypted. There are no servers, no accounts and no photo or file sharing (text messages only). Because of this, we cannot see, scan or remove messages, and users cannot be reached by strangers from far away. In the app, every user can:</p>
+  <ul>
+    <li><strong>Block</strong> someone: their match and chat are deleted from the phone and they can never connect again;</li>
+    <li><strong>Unmatch</strong> someone, which also asks the other phone to delete the chat;</li>
+    <li><strong>Go invisible</strong>, which stops Bluetooth completely so nobody can find them;</li>
+    <li><strong>Report a concern</strong> to us from Profile &gt; About &gt; &quot;Report a safety concern&quot;.</li>
+  </ul>
+
+  <h2>4. How to report</h2>
+  <ul>
+    <li><strong>A child is in immediate danger:</strong> call your local emergency number (112 in Türkiye and the EU, 911 in the US) right away.</li>
+    <li><strong>Report to us:</strong> in the app, open Profile &gt; About &gt; &quot;Report a safety concern&quot;, or email <a href="mailto:cutegames2000@gmail.com?subject=NaberX%20child%20safety%20report">cutegames2000@gmail.com</a>. Tell us what happened, when and where. Please do not send us any sexual image of a minor; describe it instead.</li>
+    <li><strong>Report to the authorities:</strong> in Türkiye, the police (155) or <a href="https://www.ihbarweb.org.tr">ihbarweb.org.tr</a>; in the US, the NCMEC CyberTipline at <a href="https://report.cybertip.org">report.cybertip.org</a>; elsewhere, your local police or a hotline listed at <a href="https://www.inhope.org">inhope.org</a>.</li>
+  </ul>
+
+  <h2>5. What we do with a report</h2>
+  <ul>
+    <li>We review every child safety report as a priority, normally within 48 hours.</li>
+    <li>Where we obtain actual knowledge of CSAM or of a child at risk, we report it to the relevant authorities, including the National Center for Missing &amp; Exploited Children (NCMEC) and the Turkish law enforcement authorities, as the law requires.</li>
+    <li>We cooperate fully with law enforcement and provide whatever information we lawfully can. Since NaberX has no servers or accounts, we hold no messages, profiles or locations; the only data we may hold is the limited Google Play order information for a paid Dating Pass.</li>
+    <li>We take any further action we can, such as working with Google Play on a user&#39;s purchases.</li>
+  </ul>
+
+  <h2>6. Compliance with law</h2>
+  <p>We comply with all applicable child safety laws and regulations, including the laws of Türkiye and the countries where NaberX is available, and with the Google Play Child Safety Standards policy.</p>
+
+  <h2>7. Child safety contact</h2>
+  <p>Our designated point of contact for child safety matters, including questions from Google Play and law enforcement, is the developer, reachable at <a href="mailto:cutegames2000@gmail.com?subject=NaberX%20child%20safety">cutegames2000@gmail.com</a>.</p>
+
+  <footer>
+    <p class="muted">NaberX by Cute Games · Bluetooth-only dating for adults (18+) · <a href="index.html">Privacy Policy &amp; Terms of Use</a></p>
+  </footer>
+</main>
+</body>
+</html>
 
